@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\bin\Debug\netcoreapp3.1\Flight_AST.exe
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\bin\Debug\netcoreapp3.1\Flight_AST.deps.json
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\bin\Debug\netcoreapp3.1\Flight_AST.runtimeconfig.json
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\bin\Debug\netcoreapp3.1\Flight_AST.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\bin\Debug\netcoreapp3.1\Flight_AST.dll
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\bin\Debug\netcoreapp3.1\Flight_AST.pdb
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\obj\Debug\netcoreapp3.1\Flight_AST.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\obj\Debug\netcoreapp3.1\Flight_AST.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\obj\Debug\netcoreapp3.1\Flight_AST.AssemblyInfo.cs
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\obj\Debug\netcoreapp3.1\Flight_AST.dll
+C:\Users\andre\source\repos\Flight_AST\Flight_AST\obj\Debug\netcoreapp3.1\Flight_AST.pdb
