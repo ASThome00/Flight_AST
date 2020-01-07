@@ -4,3 +4,9 @@ C:\Users\andre\source\repos\Dog_AST\Dog_AST\bin\Debug\Dog_AST.pdb
 C:\Users\andre\source\repos\Dog_AST\Dog_AST\obj\Debug\Dog_AST.csprojAssemblyReference.cache
 C:\Users\andre\source\repos\Dog_AST\Dog_AST\obj\Debug\Dog_AST.exe
 C:\Users\andre\source\repos\Dog_AST\Dog_AST\obj\Debug\Dog_AST.pdb
+C:\Users\andre\source\repos\Flight_AST\Dog_AST\bin\Debug\Dog_AST.exe.config
+C:\Users\andre\source\repos\Flight_AST\Dog_AST\bin\Debug\Dog_AST.exe
+C:\Users\andre\source\repos\Flight_AST\Dog_AST\bin\Debug\Dog_AST.pdb
+C:\Users\andre\source\repos\Flight_AST\Dog_AST\obj\Debug\Dog_AST.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Flight_AST\Dog_AST\obj\Debug\Dog_AST.exe
+C:\Users\andre\source\repos\Flight_AST\Dog_AST\obj\Debug\Dog_AST.pdb
